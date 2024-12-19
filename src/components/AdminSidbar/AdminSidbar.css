@@ -1,0 +1,32 @@
+.dash-sid-adm{
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+    height: 100%;
+    padding: 10px;
+}
+.dash-sid-adm .title-dash{
+    font-size: 25px;
+    padding: 0  12px;
+}
+.dash-sid-adm ul {
+    width: 100%;
+}
+.dash-sid-adm .tab-bashbord {
+    display: block;
+    padding: 20px 5px ;
+    width: 100%;
+    font-size: 20px;
+    font-weight: 500;
+    color: var(--gray-color);
+    width: 100%;
+}
+.dash-sid-adm .tab-bashbord > span {
+    margin-left: 5px;
+}
+.dash-sid-adm .tab-bashbord > svg{
+ color: var(--blue-color);
+ margin-left: 5px;
+
+}

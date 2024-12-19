@@ -1,0 +1,11 @@
+.home-container{
+ padding: 0 30px ;
+ display: flex;
+ align-items: flex-start;   
+}
+.post-list{
+    flex: 9;
+}
+.post-sidbar{
+    flex: 3;
+}

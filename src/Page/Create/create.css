@@ -1,0 +1,9 @@
+.creat-post{
+    /* height: 90vh; */
+}
+.post-form-cont{
+    border: 2px solid var(--blue-color);
+    padding: 15px;
+    border-radius: 10px;
+    margin: 50px 0;
+}

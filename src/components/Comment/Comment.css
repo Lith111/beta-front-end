@@ -1,0 +1,10 @@
+.sty-comment > button{
+    margin-left: 20px;
+    width: 25%;
+}
+.sty-comment{
+    justify-content: space-between;
+}
+.sty-comment > input {
+   width: 85%;
+}

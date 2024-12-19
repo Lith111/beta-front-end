@@ -1,0 +1,19 @@
+.alert-update-post{
+    /* width: 10%;
+    height: 100%; */
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    width: calc(100% / 2) ;
+}
+@media (min-width : 900px) {
+    .alert-update-post{
+
+    width: 40%;
+}}
+@media (max-width : 700px) {
+    .alert-update-post{
+
+    width: 70%;
+}}
